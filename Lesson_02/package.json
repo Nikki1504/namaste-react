@@ -1,0 +1,30 @@
+{
+  "name": "lesson_02",
+  "version": "1.0.0",
+  "description": "Igniting our React App",
+  "keywords": [],
+  "homepage": "https://github.com/Nikki1504/namaste-react#readme",
+  "bugs": {
+    "url": "https://github.com/Nikki1504/namaste-react/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nikki1504/namaste-react.git"
+  },
+  "license": "ISC",
+  "author": "Nikita Thakur",
+  "type": "commonjs",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "browserslist" : [
+    "last 2 versions"
+  ]
+}
